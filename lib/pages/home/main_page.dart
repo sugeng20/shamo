@@ -6,8 +6,6 @@ import 'package:shamo/pages/home/wishlist_page.dart';
 import 'package:shamo/theme.dart';
 
 class MainPage extends StatefulWidget {
-  const MainPage({Key? key}) : super(key: key);
-
   @override
   State<MainPage> createState() => _MainPageState();
 }
